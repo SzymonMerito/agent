@@ -1,1 +1,1 @@
-Skill do pisania testów jednostkowych w pytest dla modu³u Flask (mockowanie).
+ï»¿Skill do pisania testow jednostkowych w pytest dla modulu Flask (mockowanie).

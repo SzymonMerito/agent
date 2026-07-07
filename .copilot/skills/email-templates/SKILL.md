@@ -1,1 +1,1 @@
-Skill odpowiedzialny za generowanie szablonow wiadomosci e-mail.
+﻿Skill odpowiedzialny za generowanie szablonow wiadomosci e-mail.

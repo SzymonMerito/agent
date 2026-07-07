@@ -1,2 +1,2 @@
-name: mailer-testing
+﻿name: mailer-testing
 description: Writes pytest mocks for Flask mailer

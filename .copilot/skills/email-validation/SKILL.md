@@ -1,1 +1,1 @@
-Skill sprawdzaj¹cy poprawnoœæ adresów e-mail oraz domen.
+ï»¿Skill sprawdzajacy poprawnosc adresow e-mail oraz domen.
